@@ -1,0 +1,6 @@
+C:\Users\modroczky.patrik\source\repos\20241212_eb2022\20241212_eb2022\obj\Debug\20241212_eb2022.csprojAssemblyReference.cache
+C:\Users\modroczky.patrik\source\repos\20241212_eb2022\20241212_eb2022\bin\Debug\20241212_eb2022.exe.config
+C:\Users\modroczky.patrik\source\repos\20241212_eb2022\20241212_eb2022\bin\Debug\20241212_eb2022.exe
+C:\Users\modroczky.patrik\source\repos\20241212_eb2022\20241212_eb2022\bin\Debug\20241212_eb2022.pdb
+C:\Users\modroczky.patrik\source\repos\20241212_eb2022\20241212_eb2022\obj\Debug\20241212_eb2022.exe
+C:\Users\modroczky.patrik\source\repos\20241212_eb2022\20241212_eb2022\obj\Debug\20241212_eb2022.pdb
